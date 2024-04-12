@@ -2,9 +2,9 @@
 
 <h1 align="center"> Sacane</h1>
 
-I'm just a french and very passionated developper, having a Master degree from the Gustave Eiffel University. Trying my best to learn more about computing science, specially about developpment. 
+I'm a French developer with a strong passion for coding, holding a Master's degree from Gustave Eiffel University. I'm committed to expanding my knowledge in computer science, especially in development.
 
-I'm also a pianist, loving jazz, gospel and alternative rock.
+Additionally, I'm a pianist with a love for jazz, gospel, and alternative rock.
 
 
 <h1 align="center">About me as developper</h1>
