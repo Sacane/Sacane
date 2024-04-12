@@ -20,7 +20,7 @@ My primary expertise in development revolves entirely around the Java Virtual Ma
 
 ![Front icons](https://skillicons.dev/icons?i=angular,vue,nuxt,vite,html,css,androidstudio)
 
-<h2> Tools </h2>
+<h2>Tools that I use</h2>
 
 ![Tools icons](https://skillicons.dev/icons?i=gitlab,docker,maven,gradle,vscode,nuxt,vite,html,css,git,idea,linux,pinia,vscode)
 
