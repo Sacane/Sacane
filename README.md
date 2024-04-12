@@ -13,19 +13,16 @@ My primary expertise in development revolves entirely around the Java Virtual Ma
 
 <h2>Backend</h2>
 
-![java](https://img.shields.io/badge/java-yellow)
-![kotlin](https://img.shields.io/badge/Kotlin-purple)
-![python](https://img.shields.io/badge/python-yellow)
-![Spring](https://img.shields.io/badge/spring-green)
-![typescript](https://img.shields.io/badge/typescript-blue)
+![Back icons](https://skillicons.dev/icons?i=java,kotlin,ts,js,css,html,c,python,postgres,redis,spring,hibernate,sqlite)
 
 
 <h2>Frontend</h2>
 
-![angular](https://img.shields.io/badge/angular-%23d20606)
-![vue3](https://img.shields.io/badge/vue3-%231ec576)
-![Nuxt](https://img.shields.io/badge/Nuxt-%231ec576)
+![Front icons](https://skillicons.dev/icons?i=angular,vue,nuxt,vite,html,css,androidstudio)
 
+<h2> Tools </h2>
+
+![Tools icons](https://skillicons.dev/icons?i=gitlab,docker,maven,gradle,vscode,nuxt,vite,html,css,git,idea,linux,pinia,vscode)
 
 <h1 align="center">📫 Contact</h1>
 
