@@ -13,7 +13,7 @@ My primary expertise in development revolves entirely around the Java Virtual Ma
 
 <h2>Backend</h2>
 
-![Back icons](https://skillicons.dev/icons?i=java,kotlin,ts,js,css,html,c,python,postgres,redis,spring,hibernate,sqlite)
+![Back icons](https://skillicons.dev/icons?i=java,kotlin,ts,js,c,python,postgres,redis,spring,hibernate,sqlite)
 
 
 <h2>Frontend</h2>
@@ -22,7 +22,7 @@ My primary expertise in development revolves entirely around the Java Virtual Ma
 
 <h2>Tools that I use</h2>
 
-![Tools icons](https://skillicons.dev/icons?i=gitlab,docker,maven,gradle,vscode,nuxt,vite,html,css,git,idea,linux,pinia,vscode)
+![Tools icons](https://skillicons.dev/icons?i=gitlab,docker,maven,gradle,vscode,nuxt,vite,git,idea,linux,pinia,vscode)
 
 <h1 align="center">📫 Contact</h1>
 
